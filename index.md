@@ -1,10 +1,9 @@
 # Películas de Star Wars
 
-Primera trilogía:
-
-* Episodio 4: Una nueva esperanza (1977)
-* Episodio 5: El imperio contraataca (1980)
-* Episodio 6: El retorno del Jedi (1983)
+Primera trilogía
+*Episodio 4: Una nueva esperanza (1977)
+*Episodio 5: El imperio contraataca (1980)
+*Episodio 6: El retorno del jedi (1983)
 
 Segunda trilogía:
 
@@ -17,4 +16,3 @@ Tercera trilogía:
 * Episodio 7: El despertar de la fuerza (2015)
 * Episodio 8: Los últimos Jedi (2017)
 * Episodio 9: El ascenso de Skywalker (2019)
-
